@@ -4,6 +4,7 @@
  */
 package modelo;
 import java.sql.Timestamp;
+
 /**
  *
  * @author Anguar Alberto Rodriguez Fonseca

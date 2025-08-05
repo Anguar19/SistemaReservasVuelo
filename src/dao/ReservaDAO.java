@@ -12,4 +12,5 @@ import java.util.List;
 public interface ReservaDAO {
     void insertar(Reservas r);
     List<Reservas> obtenerPorUsuario(int idUsuario);
+    
 }

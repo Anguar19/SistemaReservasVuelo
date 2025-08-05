@@ -29,6 +29,7 @@ public class VueloDAOImpl implements VueloDAO {
             stmt.executeUpdate();
         } catch (Exception e) {
             e.printStackTrace();
+            
         }
     }
 

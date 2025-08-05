@@ -13,4 +13,5 @@ public interface VueloDAO {
     void insertar(Vuelo v);
     List<Vuelo> buscarPorDestino(String origen, String destino);
     List<Vuelo> obtenerTodos();
+    
 }

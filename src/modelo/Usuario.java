@@ -9,6 +9,7 @@ package modelo;
  * @author Anguar Alberto Rodriguez Fonseca
  */
 public class Usuario {
+    
     private int id;
     private String nombre;
     private String correo;

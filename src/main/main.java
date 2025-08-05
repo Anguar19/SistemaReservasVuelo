@@ -11,5 +11,6 @@ import vista.SistemaReservasVueloFrame;
 public class main {
     public static void main(String[] args) {
         javax.swing.SwingUtilities.invokeLater(() -> new SistemaReservasVueloFrame().setVisible(true));
+        
     }
 }

@@ -19,6 +19,7 @@ public class Vuelo {
     private int escalas;
     private int espacioDisponible;
     private double precio;
+    
 
     public Vuelo(int id, String aerolinea, String origen, String destino, Date fecha, Time hora, int escalas, int espacioDisponible, double precio) {
         this.id = id;
